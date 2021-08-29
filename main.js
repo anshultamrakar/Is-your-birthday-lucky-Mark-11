@@ -38,3 +38,4 @@ function calculateSum(dob){
 
 
 checkNumber.addEventListener('click', checkLuckyNumber);
+
